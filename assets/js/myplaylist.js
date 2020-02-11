@@ -7,40 +7,64 @@ jQuery(document).ready(function($) {
       jPlayer: "#main_player",
       cssSelectorAncestor: "#header_player"
     }, [{
-        title: 'Happy Life',
-        artist: 'Derwood Spinks',
-        mp3: 'media/audio/happy_life.mp3',
-        poster: "media/audio/01.jpg",
+        title: 'Alahelo Sy Tomany',
+        artist: 'HAMISHI',
+        mp3: 'media/audio/Alahelo Sy Tomany par HAMISHI.mp3',
+        /*poster: "media/audio/01.jpg",*/
       },
       {
-        title: 'King Magicians',
-        artist: 'Dan Mustaine',
-        mp3: 'media/audio/02.mp3',
+        title: 'Aret-mifindra',
+        artist: 'HAMISHI',
+        mp3: 'media/audio/HAMISHI -Aret-mifindra.mp3',
         poster: "media/audio/02.jpg",
       },
       {
-        title: 'Leaving it Behind',
-        artist: 'RZ Project',
-        mp3: 'media/audio/03.mp3',
+        title: 'Harmony ',
+        artist: 'HAMISHI (Feat. Kemyrah)',
+        mp3: 'media/audio/Harmony (Feat. Kemyrah) par HAMISHI.mp3',
         poster: "media/audio/03.jpg"
       },
       {
-        title: 'Bloodborne',
-        artist: 'Chester Ray Banton',
-        mp3: 'media/audio/04.mp3',
+        title: 'Hello B.',
+        artist: 'HAMISHI',
+        mp3: 'media/audio/Hello B. par HAMISHI.mp3',
         poster: "media/audio/04.jpg"
       },
       {
-        title: 'When Spells',
-        artist: 'Dan Mustaine',
-        mp3: 'media/audio/05.mp3',
+        title: 'Joudas (Explicite version)  ',
+        artist: 'HAMISHI',
+        mp3: 'media/audio/Joudas (Explicite version) par HAMISHI.mp3',
         poster: "media/audio/05.jpg"
       },
       {
-        title: 'When Spells',
-        artist: 'Derwood Spinks',
-        mp3: 'media/audio/06.mp3',
-        poster: "media/audio/06.jpg"
+        title: 'Khaba',
+        artist: 'HAMISHI (Feat. Lounny-Jay)',
+        mp3: 'media/audio/Khaba (Feat. Lounny-Jay) par HAMISHI.mp3',
+      },
+      {
+        title: 'Prtntious',
+        artist: 'HAMISHI (Feat. Don Pedro)',
+        mp3: 'media/audio/Prtntious - Don Pedro par HAMISHI.mp3',
+      },
+      {
+        title: 'PRTNTIOUS',
+        artist: 'HAMISHI (Feat. Fuego)',
+        mp3: 'media/audio/PRTNTIOUS - Fuego par HAMISHI.mp3',
+      },
+      {
+        title: 'PRTNTIOUS - Mpihindrana',
+        artist: 'HAMISHI ',
+        mp3: 'media/audio/PRTNTIOUS - Mpihindrana par HAMISHI.mp3',
+      },
+      {
+        title: 's o u l',
+        artist: 'HAMISHI ',
+        mp3: 'media/audio/s o u l par HAMISHI.mp3',
+      },
+      {
+        title: 'Y O U',
+        artist: 'Hamishi & Tonix The Producer par HAMISHI',
+        mp3: 'media/audio/Y O U - Hamishi & Tonix The Producer par HAMISHI.mp3',
       }
     ], {
       playlistOptions: {

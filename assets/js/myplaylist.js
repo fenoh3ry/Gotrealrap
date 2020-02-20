@@ -6,66 +6,37 @@ jQuery(document).ready(function($) {
     var myPlaylist = new jPlayerPlaylist({
       jPlayer: "#main_player",
       cssSelectorAncestor: "#header_player"
-    }, [{
-        title: 'Alahelo Sy Tomany',
-        artist: 'HAMISHI',
-        mp3: 'media/audio/Alahelo Sy Tomany par HAMISHI.mp3',
+    }, [
+      {
+        title: '00 - 00',
+        artist: 'HAMISHI ( Feat. Khyms Ogami )',
+        mp3: 'media/audio/aotra.mp3',
         /*poster: "media/audio/01.jpg",*/
       },
       {
-        title: 'Aret-mifindra',
+        title: 'Kaneki',
         artist: 'HAMISHI',
-        mp3: 'media/audio/HAMISHI -Aret-mifindra.mp3',
-        poster: "media/audio/02.jpg",
+        mp3: 'media/audio/Kaneki.mp3',
+        /*poster: "media/audio/01.jpg",*/
       },
       {
-        title: 'Harmony ',
-        artist: 'HAMISHI (Feat. Kemyrah)',
-        mp3: 'media/audio/Harmony (Feat. Kemyrah) par HAMISHI.mp3',
-        poster: "media/audio/03.jpg"
-      },
-      {
-        title: 'Hello B.',
+        title: 'SOUL',
         artist: 'HAMISHI',
-        mp3: 'media/audio/Hello B. par HAMISHI.mp3',
-        poster: "media/audio/04.jpg"
+        mp3: 'media/audio/SOUL.mp3',
+        /*poster: "media/audio/01.jpg",*/
       },
       {
-        title: 'Joudas (Explicite version)  ',
+        title: 'Tsymaintsymitondramody',
         artist: 'HAMISHI',
-        mp3: 'media/audio/Joudas (Explicite version) par HAMISHI.mp3',
-        poster: "media/audio/05.jpg"
+        mp3: 'media/audio/Tsymaintsymitondramody.mp3',
+        /*poster: "media/audio/01.jpg",*/
       },
       {
-        title: 'Khaba',
-        artist: 'HAMISHI (Feat. Lounny-Jay)',
-        mp3: 'media/audio/Khaba (Feat. Lounny-Jay) par HAMISHI.mp3',
+        title: 'YOU ( Feat. Tonix The Producer )',
+        artist: 'HAMISHI( Feat. Tonix The Producer )',
+        mp3: 'media/audio/YOU ( Feat. Tonix The Producer ).mp3',
+        /*poster: "media/audio/01.jpg",*/
       },
-      {
-        title: 'Prtntious',
-        artist: 'HAMISHI (Feat. Don Pedro)',
-        mp3: 'media/audio/Prtntious - Don Pedro par HAMISHI.mp3',
-      },
-      {
-        title: 'PRTNTIOUS',
-        artist: 'HAMISHI (Feat. Fuego)',
-        mp3: 'media/audio/PRTNTIOUS - Fuego par HAMISHI.mp3',
-      },
-      {
-        title: 'PRTNTIOUS - Mpihindrana',
-        artist: 'HAMISHI ',
-        mp3: 'media/audio/PRTNTIOUS - Mpihindrana par HAMISHI.mp3',
-      },
-      {
-        title: 's o u l',
-        artist: 'HAMISHI ',
-        mp3: 'media/audio/s o u l par HAMISHI.mp3',
-      },
-      {
-        title: 'Y O U',
-        artist: 'Hamishi & Tonix The Producer par HAMISHI',
-        mp3: 'media/audio/Y O U - Hamishi & Tonix The Producer par HAMISHI.mp3',
-      }
     ], {
       playlistOptions: {
         enableRemoveControls: true,

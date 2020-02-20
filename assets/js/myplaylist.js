@@ -8,12 +8,6 @@ jQuery(document).ready(function($) {
       cssSelectorAncestor: "#header_player"
     }, [
       {
-        title: '00 - 00',
-        artist: 'HAMISHI ( Feat. Khyms Ogami )',
-        mp3: 'media/audio/aotra.mp3',
-        /*poster: "media/audio/01.jpg",*/
-      },
-      {
         title: 'Kaneki',
         artist: 'HAMISHI',
         mp3: 'media/audio/Kaneki.mp3',
